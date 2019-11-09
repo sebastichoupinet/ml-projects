@@ -1,1 +1,1 @@
-# ml-projetcs
+# ml-projects
